@@ -14,7 +14,7 @@ The minimum requirements:
 
 ## Instructions on how to execute the code
 
-1. Clone the repository, and change the directory to **Sep-Bootcamp/week19**:
+1. Clone the repository, and change the directory to **March-Bootcamp/week18**:
 ```
 git clone https://github.com/shaq31415926/March-Bootcamp.git
 ```
