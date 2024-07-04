@@ -23,11 +23,25 @@ If you need a reminder how to clone a repository, check out this link [here](htt
 
 If you have never worked with git before, you will need to install it and you can find more information [here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
+If you have already cloned the repository, locate the **March-Bootcamp/week18** folder:
+
+```
+git pull
+```
+
 
 2. Install the libraries that you will need to run `main.py`
+
+Mac users:
 ```
 pip3 install -r requirements.txt
 ```
+
+Window users:
+```
+pip3 install -r requirements.txt
+```
+
 
 3. Copy the `.env.copy` file to `.env`and fill out the environment variables.
 
