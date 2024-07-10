@@ -11,7 +11,7 @@ The minimum requirements:
 
 ## Instructions
 
-1. Create a [DockerFile](https://github.com/shaq31415926/Sep-Bootcamp/blob/main/week20/Dockerfile) which fetches a docker image and copies the dags and python code across. 
+1. Create a [DockerFile](https://github.com/shaq31415926/March-Bootcamp/blob/main/week19-airflow/Dockerfile) which fetches a docker image and copies the dags and python code across. 
 
 Information about the image we are using can be found here: https://github.com/puckel/docker-airflow
 
